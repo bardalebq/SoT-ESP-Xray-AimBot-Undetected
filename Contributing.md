@@ -90,18 +90,6 @@ Sea of Thieves uses **Easy Anti‑Cheat (EAC)** alongside Xbox Live enforcement.
 
 ---
 
-## ⚠️ Risk Assessment
-
-| Risk Factor | Level | Explanation |
-|-------------|-------|-------------|
-| **Account suspension** | High | Microsoft/Rare bans accounts using third‑party tools. |
-| **Detection likelihood** | Low–moderate | External cheats are harder to detect than injected DLLs. |
-| **Malware risk** | Medium | Unverified sources may contain miners or stealers. |
-
-> **Disclaimer:** This information is for **educational purposes only**. Using cheats in *Sea of Thieves* violates Rare's Terms of Service and may result in permanent bans. The author does not condone cheating.
-
----
-
 ## 🔑 Technical Summary
 
 Sea of Thieves cheats exemplify the effectiveness of information‑based cheating in shared‑world games. By relying on RPM/WPM, signature scanning, and external overlays, they provide a comprehensive feature set — ESP, aimbot (cannon & guns), X‑ray vision, and automation — with relatively low detection risk when used carefully. However, EAC and server‑side heuristics remain significant threats. Users must understand these risks and act responsibly.
